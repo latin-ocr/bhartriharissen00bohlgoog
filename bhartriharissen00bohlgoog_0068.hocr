@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bhartriharissen00bohlgoog_0068.png"; bbox 0 0 4126 5595; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 730 1465 2903 2489">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 730 1465 2849 2489">
+     <span class='ocr_line' id='line_1_1' title="bbox 2773 2423 2792 2489; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 2773 2423 2792 2489; x_wconf 82' lang='lat'>-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 735 2181 2652 2352; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 735 2181 2652 2352; x_wconf 48' lang='lat' dir='ltr'>mamam-„fffssaeffiffloewffwffwff</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 736 2012 2903 2171; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 2584 2023 2903 2140; x_wconf 56' lang='grc' dir='ltr'><em>...ἶ-ω</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 736 2012 2527 2171; x_wconf 51' lang='grc' dir='ltr'>Ξωωευξπῶἒηπωω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 735 1828 2849 1990; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 2844 1929 2849 1935; x_wconf 81' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 735 1828 2481 1990; x_wconf 35' lang='grc' dir='ltr'>ἐξέβη</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 734 1648 2591 1804; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 734 1648 2591 1804; x_wconf 51' lang='grc' dir='ltr'>,ξὲῗξξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 730 1465 2358 1628; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 730 1465 2358 1628; x_wconf 48' lang='grc' dir='ltr'>,ιω-ἓξὲξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 521 525 635 612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 521 525 635 612">
+     <span class='ocr_line' id='line_1_7' title="bbox 521 525 635 612; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 521 525 635 612; x_wconf 61' lang='grc' dir='ltr'>ωω</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
